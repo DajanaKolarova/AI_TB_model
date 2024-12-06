@@ -14,6 +14,7 @@ The dataset contains X-ray images of lungs, divided into two classes:
 - **Normal (healthy):** 700 images.
 - **Tuberculosis-positive:** 700 images.
 - original resolution: 512x512 pixels
+  
 **Source:** [Kaggle: Tuberculosis (TB) Chest X-Ray Database](https://www.kaggle.com/)
 
 **Reduced dataset location**
